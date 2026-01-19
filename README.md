@@ -67,7 +67,7 @@ Then, open your web browser and navigate to the URL provided by Gradio (usually 
 
 ## 🖼️ Screenshot
 
-![Screenshot of the application](https://i.ibb.co.com/jP2MPLG2/Screenshot-2026-01-20-at-12-05-11-AM.png)
+![Screenshot of the application](/assets/gradio.png)
 
 ## 📄 License
 
